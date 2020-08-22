@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Yixin-money-react-website/static/css/main.a060e60c.chunk.css",
+    "main.js": "/Yixin-money-react-website/static/js/main.ed9fc5e1.chunk.js",
+    "main.js.map": "/Yixin-money-react-website/static/js/main.ed9fc5e1.chunk.js.map",
+    "runtime-main.js": "/Yixin-money-react-website/static/js/runtime-main.4e8ef5d6.js",
+    "runtime-main.js.map": "/Yixin-money-react-website/static/js/runtime-main.4e8ef5d6.js.map",
+    "static/js/2.c45d3c2b.chunk.js": "/Yixin-money-react-website/static/js/2.c45d3c2b.chunk.js",
+    "static/js/2.c45d3c2b.chunk.js.map": "/Yixin-money-react-website/static/js/2.c45d3c2b.chunk.js.map",
+    "index.html": "/Yixin-money-react-website/index.html",
+    "precache-manifest.edd5c840f2479bb95f18d60cff455f4e.js": "/Yixin-money-react-website/precache-manifest.edd5c840f2479bb95f18d60cff455f4e.js",
+    "service-worker.js": "/Yixin-money-react-website/service-worker.js",
+    "static/css/main.a060e60c.chunk.css.map": "/Yixin-money-react-website/static/css/main.a060e60c.chunk.css.map",
+    "static/js/2.c45d3c2b.chunk.js.LICENSE.txt": "/Yixin-money-react-website/static/js/2.c45d3c2b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e8ef5d6.js",
+    "static/js/2.c45d3c2b.chunk.js",
+    "static/css/main.a060e60c.chunk.css",
+    "static/js/main.ed9fc5e1.chunk.js"
+  ]
+}
